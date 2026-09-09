@@ -13,38 +13,54 @@
 
 ## 🛰️ About me
 
-I design and build **Discord bots and communities** end to end — from the first command to
-systems members use every day. My focus is simple: **features that feel native to Discord** —
-clean embeds, persistent buttons, modals and threads instead of prefix spam.
+I'm a **Discord bot developer** — I take the bots everyone uses, study them feature by feature,
+and rebuild them **better**: native-feeling UX, persistent buttons, modals and threads instead
+of prefix spam. No bloated dashboards, no commands nobody remembers.
 
-- 🔭 Currently building **[Vyrron](https://vyrron.net)** — a community bot (VoiceMaster,
-  suggestions, reports) plus its website and portfolio at [vyrron.net](https://vyrron.net)
-- 🌱 Learning: advanced `discord.py` patterns (persistent views, Components V2), TypeScript
-- 💬 Ask me about Discord bot UX, join-to-create voice systems, suggestion/voting flows
-- ⚡ Fun fact: every Vyrron feature is benchmarked against the best bots out there — then improved
+- 🔭 Flagship project: **[Vyrron](https://vyrron.net)** — community bot + website, built and
+  run by me end to end (code, hosting, community)
+- 🧠 Specialty: join-to-create voice systems, voting/suggestion flows, modal-based reports
+- 🌱 Currently leveling up: `discord.py` persistent views & Components V2, TypeScript
+- 🤝 Open to collabs on Discord tooling, bot UX and community automation
 
 ---
 
 ## ⚡ Flagship: Vyrron
 
-| | |
-|---|---|
-| 🤖 **What** | Community Discord bot — VoiceMaster (join-to-create), curated suggestions with voting, bug reports with modals |
-| 🧰 **Stack** | Python, discord.py, SQLite, Components V2 |
-| 🌐 **Live** | [vyrron.net](https://vyrron.net) · [Discord server](https://discord.vyrron.net) |
-| 🎯 **Philosophy** | Match the best bots feature-for-feature — then add the button they forgot |
+<p>
+  <img src="https://img.shields.io/badge/Status-Active_development-7c5cff?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Python-discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.py" />
+  <a href="https://discord.vyrron.net"><img src="https://img.shields.io/badge/Community-Live-57F287?style=flat-square&logo=discord&logoColor=white" alt="Community" /></a>
+</p>
+
+A community Discord bot built to go head-to-head with the best bots out there — and win on UX.
+
+- 🔊 **VoiceMaster** — join-to-create voices with setup wizard, ownership transfer, premium layer
+- 💡 **Suggestions 2.0** — curated idea lab with live vote toggling, discussion threads and
+  pitch-from-anywhere buttons (no chat spam, no commands needed)
+- 🐞 **Reports** — modal-based bug reports with screenshot flow and staff-review trail
+
+🌐 [vyrron.net](https://vyrron.net) · 💬 [Discord server](https://discord.vyrron.net)
+
+> *Match the best bots feature-for-feature — then add the button they forgot.*
 
 ---
 
 ## 🛠️ Stack
 
-**Languages**
+**Core — where I live**
 
-[![Skills](https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,sqlite&theme=dark)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.py" />
+<img src="https://img.shields.io/badge/Components_V2-7c5cff?style=flat-square&logo=discord&logoColor=white" alt="Components V2" />
 
-**Data, tools & platforms**
+**Ship with**
 
-[![Skills](https://skillicons.dev/icons?i=sqlite,git,github,vscode,md&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,md&theme=dark)](https://skillicons.dev)
+
+**Tooling**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
