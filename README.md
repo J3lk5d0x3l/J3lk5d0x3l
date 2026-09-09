@@ -48,19 +48,13 @@ A community Discord bot built to go head-to-head with the best bots out there �
 
 ## 🛠️ Stack
 
-**Core — where I live**
+**Languages**
 
-[![Skills](https://skillicons.dev/icons?i=py,sqlite&theme=dark)](https://skillicons.dev)
-<img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.py" />
-<img src="https://img.shields.io/badge/Components_V2-7c5cff?style=flat-square&logo=discord&logoColor=white" alt="Components V2" />
+[![Skills](https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark)](https://skillicons.dev)
 
-**Ship with**
+**Data, tools & platforms**
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,md&theme=dark)](https://skillicons.dev)
-
-**Tooling**
-
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=sqlite,git,github,vscode,md&theme=dark)](https://skillicons.dev)
 
 ---
 
