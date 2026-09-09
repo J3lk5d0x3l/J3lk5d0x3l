@@ -66,7 +66,13 @@ A community Discord bot built to go head-to-head with the best bots out there â€
 
 ## ğŸ Contributions
 
-![Snake](https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+  </picture>
+</p>
 
 ---
 
