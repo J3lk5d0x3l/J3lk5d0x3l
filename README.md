@@ -1,13 +1,13 @@
-<a href="https://vyrron.net">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/main/dark_mode.svg">
-    <img alt="J3 - Discord Bot Developer, founder of Vyrron" src="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/main/light_mode.svg">
-  </picture>
-</a>
+## Hi there 👋
+I'm **J3** (Samuel) and I make Discord bots. Most of my time goes into [**Vyrron**](https://vyrron.net), below is some of what I've built:
 
-<p align="left"><a href="https://vyrron.net"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/main/link_portfolio_dark.svg"><img alt="Portfolio" width="33.3%" src="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/main/link_portfolio_light.svg"></picture></a><a href="https://discord.vyrron.net"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/main/link_discord_dark.svg"><img alt="Discord" width="33.3%" src="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/main/link_discord_light.svg"></picture></a><a href="https://github.com/sponsors/J3lk5d0x3l"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/main/link_sponsor_dark.svg"><img alt="Sponsor" width="33.3%" src="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/main/link_sponsor_light.svg"></picture></a></p>
+### Projects:
+* [**Vyrron**](https://vyrron.net): A Discord bot with join-to-create voices, a suggestions system and modal-based reports! [Join the server](https://discord.vyrron.net)
+* [**Vyrron Helper**](https://discord.vyrron.net): The support bot for the Vyrron server!
+* [**Website**](https://vyrron.net): The Vyrron website and docs!
+* [**Pixel Editor**](https://github.com/J3lk5d0x3l/pixel-editor-Ai): A pixel editor made with JavaScript!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/J3lk5d0x3l/J3lk5d0x3l/output/pacman-contribution-graph.svg">
-</picture>
+### Links:
+* Website: [vyrron.net](https://vyrron.net)
+* Discord: [discord.vyrron.net](https://discord.vyrron.net)
+* Sponsor: [github.com/sponsors/J3lk5d0x3l](https://github.com/sponsors/J3lk5d0x3l)
